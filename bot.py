@@ -44,7 +44,7 @@ def views(Url):
             views(Url)
 
 print(Fore.GREEN)
-url = input('Please enter here TikTok video URL: \n')
+url = input('Please enter here TikTok video URL: https://www.tiktok.com/@haydomz/video/7078067401018903814?is_copy_url=1&is_from_webapp=v1)
 print(Fore.WHITE)
 
 views(url)
